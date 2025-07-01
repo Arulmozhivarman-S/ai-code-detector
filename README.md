@@ -1,4 +1,3 @@
-# ai-code-detector
 # 🤖 AI Code Detector
 
 Detect whether a piece of code was written by a **human** or an **AI model (ChatGPT)** using a machine learning classifier.
